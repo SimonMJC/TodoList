@@ -40,6 +40,13 @@
   네이티브 개발만 하던 본인에겐 상당히 귀찮은 부분이었다.
   
   
+1. Scripter: Visual Studio Code
+2. Language: JavaScript
+3. Framework/Library: ReactNative 0.63.2, ReactNative-cli 2.0.1
+4. Desktop: Macbook pro 2019 15ch cto
+5. OS: macOS Catalina 10.15.6
+6. Launch Device: iPhone11(iOS: 13.4) Simulation for Xcode
+
  --------------------------
  write by simon
  
