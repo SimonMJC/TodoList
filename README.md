@@ -1,7 +1,7 @@
 # TodoList
----------------------------------
 ## React Native First Project
-### ReactNative를 익히기 위한 간단한 TodoList
+
+#### ReactNative를 익히기 위한 간단한 TodoList
 ------------------------------------
 ##### 주요 컴포넌트
 
